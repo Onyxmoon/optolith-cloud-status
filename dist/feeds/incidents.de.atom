@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>/</id>
+    <title>optolith.app</title>
+    <updated>2019-08-17T23:49:32.796Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="/"/>
+    <link rel="self" href="//feeds/incidents.de.atom"/>
+    <subtitle>Web service infrastructure for the Optolith Character Generator</subtitle>
+</feed>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>optolith.app</title>
+        <link>/</link>
+        <description>Web service infrastructure for the Optolith Character Generator</description>
+        <lastBuildDate>Sat, 17 Aug 2019 23:49:32 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>Statusfy</generator>
+        <atom:link href="//feeds/incidents.de.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>
