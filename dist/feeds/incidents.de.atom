@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/</id>
     <title>optolith.app</title>
-    <updated>2019-08-29T21:04:29.245Z</updated>
+    <updated>2019-08-29T21:33:41.781Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="/"/>
     <link rel="self" href="//feeds/incidents.de.atom"/>
@@ -13,6 +13,13 @@
         <link href="//incidents/ec26eee2"/>
         <updated>2019-08-28T16:55:36.615Z</updated>
         <content type="html"><![CDATA[<p>Aufgrund eines geplanten Upgrade der Infrastruktur für zukünftige Erweiterungen, kann es zu Störungen der allgemeinen Verfügbarkeit kommen.</p>
+<div class="update-block">
+          <div class="update-block-date">2019-08-29T21:29:49.772Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Gelöst</div>
+            <div class="update-block-body">
+<p>Die Migration wurde abgeschlossen und die Dienste stehen wieder vollumfänglich zur Verfügung.</p>
+</div></div></div>
 <!--- language code: de -->
 ]]></content>
     </entry>

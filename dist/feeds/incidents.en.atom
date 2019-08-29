@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>//en</id>
     <title>optolith.app</title>
-    <updated>2019-08-29T21:04:29.254Z</updated>
+    <updated>2019-08-29T21:33:41.790Z</updated>
     <generator>Statusfy</generator>
     <link rel="alternate" href="//en"/>
     <link rel="self" href="//feeds/incidents.en.atom"/>
@@ -13,6 +13,13 @@
         <link href="//en/incidents/ec26eee2"/>
         <updated>2019-08-28T16:55:36.615Z</updated>
         <content type="html"><![CDATA[<p>Due to a planned upgrade of the infrastructure for future extensions, general availability may be disrupted.</p>
+<div class="update-block">
+          <div class="update-block-date">2019-08-29T21:29:49.772Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>The migration has been completed and the services are fully available again.</p>
+</div></div></div>
 <!--- language code: en -->
 ]]></content>
     </entry>
