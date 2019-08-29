@@ -7,7 +7,7 @@
     "api",
     "update"
   ],
-  "resolved": false
+  "resolved": true
 }
 ---
 Due to a planned upgrade of the infrastructure for future extensions, general availability may be disrupted.
