@@ -9,7 +9,8 @@ module.exports = {
       "iso": "de-DE",
       "name": "Deutsch",
       "file": "de.json"
-    }
+    },
+    { code: 'en', iso: 'en-US', name: 'English' },
   ],
   "content": {
     "frontMatterFormat": "json",
