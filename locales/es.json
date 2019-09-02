@@ -1,0 +1,21 @@
+{
+  "title": "optolith.app - Estado",
+  "description": "Estado de los servicios web de Optolith",
+  "links": {
+    "contact": "https://www.facebook.com/optolithde/",
+    "support": "mailto:support@optolith.app",
+    "home": "https://www.ulisses-ebooks.de/product/209711/Optolith-Heldenverwaltung"
+  },
+  "systems": {
+    "items": {
+      "update": {
+        "title": "Servicio de actualización",
+        "description": "Servicio de actualización para Optolith Character Generator"
+      },
+      "api": {
+        "title": "Servicio en la nube",
+        "description": "Servicio de nube para Optolith Character Generator"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>//nl</id>
+    <title>optolith.app</title>
+    <updated>2019-09-02T22:44:55.774Z</updated>
+    <generator>Statusfy</generator>
+    <link rel="alternate" href="//nl"/>
+    <link rel="self" href="//feeds/incidents.nl.atom"/>
+    <subtitle>Web service infrastructure for the Optolith Character Generator</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Upgrade en migratie]]></title>
+        <id>//nl/incidents/ec26eee2</id>
+        <link href="//nl/incidents/ec26eee2"/>
+        <updated>2019-08-28T16:55:36.615Z</updated>
+        <content type="html"><![CDATA[<p>Als gevolg van een geplande upgrade van onze infrastructuur kunnen alle Optolith webservices worden verstoord. Deze maatregelen zijn belangrijk om de nodige capaciteit en schaalbaarheid te creëren voor toekomstige producten en uitbreidingen.</p>
+<div class="update-block">
+          <div class="update-block-date">2019-08-29T21:29:49.772Z</div>
+          <div class="update-block-content">
+            <div class="update-block-title">Resolved</div>
+            <div class="update-block-body">
+<p>De migratie is afgerond en de diensten zijn weer volledig beschikbaar.</p>
+</div></div></div>
+<!--- language code: nl -->
+]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,21 @@
+{
+  "title": "optolith.app - Status",
+  "description": "Statusoverzicht van de Optolith heldengenerator - Webservices",
+  "links": {
+    "contact": "https://www.facebook.com/optolithde/",
+    "support": "mailto:support@optolith.app",
+    "home": "https://www.ulisses-ebooks.de/product/209711/Optolith-Heldenverwaltung"
+  },
+  "systems": {
+    "items": {
+      "update": {
+        "title": "Updateservice",
+        "description": "Updateservice voor de Optolith heldengenerator"
+      },
+      "api": {
+        "title": "Cloudservice",
+        "description": "Cloud service voor de Optolith heldengenerator"
+      }
+    }
+  }
+}

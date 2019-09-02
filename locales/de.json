@@ -1,9 +1,9 @@
 {
-  "title": "optolith.app",
-  "description": "Status�bersicht der Optolith Heldenverwaltung - Webservices",
+  "title": "optolith.app - Status",
+  "description": "Statusübersicht der Optolith Heldenverwaltung - Webservices",
   "links": {
     "contact": "https://www.facebook.com/optolithde/",
-    "support": "https://github.com/elyukai/optolith-client",
+    "support": "mailto:support@optolith.app",
     "home": "https://www.ulisses-ebooks.de/product/209711/Optolith-Heldenverwaltung"
   },
   "systems": {
