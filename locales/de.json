@@ -1,4 +1,4 @@
-{
+﻿{
   "title": "optolith.app - Status",
   "description": "Statusübersicht der Optolith Heldenverwaltung - Webservices",
   "links": {
@@ -13,8 +13,8 @@
         "description": "Update-Dienst für den Optolith Heldengenerator"
       },
       "api": {
-        "title": "Cloud-Dienst",
-        "description": "Cloud-Dienst für den Optolith Heldengenerator"
+        "title": "Sync-Dienst",
+        "description": "Der offizielle Sync-Dienst für den Optolith Heldengenerator"
       }
     }
   }

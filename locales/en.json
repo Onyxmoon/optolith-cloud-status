@@ -13,8 +13,8 @@
         "description": "Update service for Optolith Character Generator"
       },
       "api": {
-        "title": "Cloud service",
-        "description": "Cloud service for Optolith Character Generator"
+        "title": "Sync service",
+        "description": "Sync service for Optolith Character Generator"
       }
     }
   }

@@ -13,8 +13,8 @@
         "description": "Updateservice voor de Optolith heldengenerator"
       },
       "api": {
-        "title": "Cloudservice",
-        "description": "Cloud service voor de Optolith heldengenerator"
+        "title": "Synchronisatiedienst",
+        "description": "Synchronisatiedienst voor de Optolith heldengenerator"
       }
     }
   }

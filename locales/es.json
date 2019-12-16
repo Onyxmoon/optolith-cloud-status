@@ -1,4 +1,4 @@
-{
+﻿{
   "title": "optolith.app - Estado",
   "description": "Estado de los servicios web de Optolith",
   "links": {
@@ -13,8 +13,8 @@
         "description": "Servicio de actualización para Optolith Character Generator"
       },
       "api": {
-        "title": "Servicio en la nube",
-        "description": "Servicio de nube para Optolith Character Generator"
+        "title": "Servicio de sincronización",
+        "description": "Servicio de sincronización para Optolith Character Generator"
       }
     }
   }

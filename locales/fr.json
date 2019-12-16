@@ -1,4 +1,4 @@
-{
+﻿{
   "title": "optolith.app - Statut",
   "description": "Statut des services web Optolith",
   "links": {
@@ -13,8 +13,8 @@
         "description": "Service de mise à jour pour le générateur de caractères Optolith"
       },
       "api": {
-        "title": "Service cloud",
-        "description": "Service cloud pour le générateur de caractères Optolith"
+        "title": "Service de synchronisation",
+        "description": "Service de synchronisation pour le générateur de caractères Optolith"
       }
     }
   }
