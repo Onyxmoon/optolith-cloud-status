@@ -14,7 +14,7 @@
     "update-incident": "statusfy update-incident"
   },
   "dependencies": {
-    "statusfy": "^0.4.1"
+    "statusfy": "^0.4.3"
   },
   "engines": {
     "node": ">=8.10",

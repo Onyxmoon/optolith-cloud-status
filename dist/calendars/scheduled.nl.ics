@@ -1,8 +1,0 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:-//Statusfy//optolith.app//calendar//scheduled//NL
-NAME:optolith.app
-X-WR-CALNAME:optolith.app
-TIMEZONE-ID:UTC
-X-WR-TIMEZONE:UTC
-END:VCALENDAR
